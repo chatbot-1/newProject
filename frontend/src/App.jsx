@@ -36,6 +36,7 @@ function App() {
               onChange={(e) => setName(e.target.value)}
               type="text"
             />
+            <input type="text" placeholder="please enter the correct name"/>
           </div>
           <div>
             <label htmlFor="">Email</label>
